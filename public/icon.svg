@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1f4d3a"/>
+  <!-- Two leaves on one stem: red for China, green for Ireland -->
+  <path d="M256 420 C256 330 250 260 230 190" stroke="#f4efe3" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <path d="M236 214 C150 220 104 160 110 92 C190 88 246 130 236 214 Z" fill="#d1493f"/>
+  <path d="M248 270 C330 286 394 236 404 156 C318 140 248 190 248 270 Z" fill="#3fb57e"/>
+  <path d="M236 214 C200 180 160 140 130 108" stroke="#1f4d3a" stroke-width="8" stroke-linecap="round" fill="none" opacity=".55"/>
+  <path d="M248 270 C300 240 350 200 386 170" stroke="#1f4d3a" stroke-width="8" stroke-linecap="round" fill="none" opacity=".55"/>
+</svg>

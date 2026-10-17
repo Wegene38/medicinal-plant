@@ -1,0 +1,212 @@
+{
+  "ginseng": {
+    "src": "images/ginseng.jpg",
+    "file": "Ginsengpflanze.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ginsengpflanze.jpg",
+    "artist": "FloraFarm GmbH / Katharina Lohrie",
+    "license": "CC BY 3.0"
+  },
+  "astragalus": {
+    "src": "images/astragalus.jpg",
+    "file": "Astragalus_membranaceus.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Astragalus_membranaceus.jpg",
+    "artist": "Doronenko",
+    "license": "CC BY 2.5"
+  },
+  "dang-gui": {
+    "src": "images/dang-gui.jpg",
+    "file": "Danggui_Angelica_sinensis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Danggui_Angelica_sinensis.jpg",
+    "artist": "AnonymousUnknown author",
+    "license": "CC BY-SA 3.0"
+  },
+  "goji": {
+    "src": "images/goji.jpg",
+    "file": "Lycium_barbarum_-_Wolfberries_China_7-05.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lycium_barbarum_-_Wolfberries_China_7-05.jpg",
+    "artist": "Paul Gross (paul144) and Richard Zhang",
+    "license": "Public domain"
+  },
+  "honeysuckle": {
+    "src": "images/honeysuckle.jpg",
+    "file": "Honeysuckle-2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Honeysuckle-2.jpg",
+    "artist": "Aftabbanoori",
+    "license": "CC BY-SA 3.0"
+  },
+  "licorice": {
+    "src": "images/licorice.jpg",
+    "file": "Glycyrrhizauralensis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Glycyrrhizauralensis.jpg",
+    "artist": "Stickpen",
+    "license": "Public domain"
+  },
+  "chrysanthemum": {
+    "src": "images/chrysanthemum.jpg",
+    "file": "Chrysanthemum.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Chrysanthemum.JPG",
+    "artist": "Aruna at Malayalam Wikipedia",
+    "license": "CC BY-SA 3.0"
+  },
+  "notoginseng": {
+    "src": "images/notoginseng.jpg",
+    "file": "Panax_notoginseng.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Panax_notoginseng.png",
+    "artist": "中国科学院植物研究所",
+    "license": "Public domain"
+  },
+  "shan-zha": {
+    "src": "images/shan-zha.jpg",
+    "file": "HawthornFruit.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:HawthornFruit.JPG",
+    "artist": "Yongxinge",
+    "license": "CC BY-SA 3.0"
+  },
+  "pu-gong-ying": {
+    "src": "images/pu-gong-ying.jpg",
+    "file": "蒲公英_Taraxacum_mongolicum_(香港荃灣老圍中藥園_Lo-Wai_Chinese_Herb_Garden,_Hong_Kong).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%E8%92%B2%E5%85%AC%E8%8B%B1_Taraxacum_mongolicum_(%E9%A6%99%E6%B8%AF%E8%8D%83%E7%81%A3%E8%80%81%E5%9C%8D%E4%B8%AD%E8%97%A5%E5%9C%92_Lo-Wai_Chinese_Herb_Garden,_Hong_Kong).jpg",
+    "artist": "阿橋花譜 HQ Flower Guide",
+    "license": "CC BY-SA 2.0"
+  },
+  "ai-ye": {
+    "src": "images/ai-ye.jpg",
+    "file": "Aicao.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aicao.jpg",
+    "artist": "Original uploader was 竹围墙 at zh.wikipedia",
+    "license": "CC BY-SA 3.0"
+  },
+  "bo-he": {
+    "src": "images/bo-he.jpg",
+    "file": "Mentha_canadensis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mentha_canadensis.jpg",
+    "artist": "Mjhuft",
+    "license": "CC BY-SA 4.0"
+  },
+  "che-qian": {
+    "src": "images/che-qian.jpg",
+    "file": "Plantago_asiatica.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Plantago_asiatica.jpg",
+    "artist": "Shizhao",
+    "license": "CC BY 3.0"
+  },
+  "xia-ku-cao": {
+    "src": "images/xia-ku-cao.jpg",
+    "file": "Prunella_vulgaris_-_harilik_käbihein.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Prunella_vulgaris_-_harilik_k%C3%A4bihein.jpg",
+    "artist": "Ivar Leidus",
+    "license": "CC BY-SA 3.0"
+  },
+  "du-zhong": {
+    "src": "images/du-zhong.jpg",
+    "file": "Eucommia-ulmoides.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Eucommia-ulmoides.JPG",
+    "artist": "Sten Porse",
+    "license": "CC BY-SA 3.0"
+  },
+  "meadowsweet": {
+    "src": "images/meadowsweet.jpg",
+    "file": "20140715Filipendula_ulmaria.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20140715Filipendula_ulmaria.jpg",
+    "artist": "AnRo0002",
+    "license": "CC0"
+  },
+  "elder": {
+    "src": "images/elder.jpg",
+    "file": "Sambucus_nigra_004.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg",
+    "artist": "Willow",
+    "license": "CC BY 2.5"
+  },
+  "hawthorn": {
+    "src": "images/hawthorn.jpg",
+    "file": "Hawthorn_fruit.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Hawthorn_fruit.JPG",
+    "artist": "Elstro",
+    "license": "CC BY 3.0"
+  },
+  "nettle": {
+    "src": "images/nettle.jpg",
+    "file": "Fen_nettle_(Urtica_dioica_ssp._galeopsifolia)_-_geograph.org.uk_-_5423125.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fen_nettle_(Urtica_dioica_ssp._galeopsifolia)_-_geograph.org.uk_-_5423125.jpg",
+    "artist": "Evelyn Simak",
+    "license": "CC BY-SA 2.0"
+  },
+  "yarrow": {
+    "src": "images/yarrow.jpg",
+    "file": "Achillea_millefolium_(bright).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(bright).jpg",
+    "artist": "SAplants",
+    "license": "CC BY-SA 4.0"
+  },
+  "dandelion": {
+    "src": "images/dandelion.jpg",
+    "file": "Taraxacum_officinale_-_Köhler–s_Medizinal-Pflanzen-135.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Taraxacum_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-135.jpg",
+    "artist": "Walther Otto Müller",
+    "license": "Public domain"
+  },
+  "foxglove": {
+    "src": "images/foxglove.jpg",
+    "file": "Digitalis_purpurea_LC0101.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Digitalis_purpurea_LC0101.jpg",
+    "artist": "Jörg Hempel",
+    "license": "CC BY-SA 3.0 de"
+  },
+  "mugwort": {
+    "src": "images/mugwort.jpg",
+    "file": "ArtemisiaVulgaris.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ArtemisiaVulgaris.jpg",
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0"
+  },
+  "ribwort": {
+    "src": "images/ribwort.jpg",
+    "file": "Ribwort_600.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ribwort_600.jpg",
+    "artist": "sannse",
+    "license": "CC BY-SA 3.0"
+  },
+  "comfrey": {
+    "src": "images/comfrey.jpg",
+    "file": "Symphytum_officinale_01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Symphytum_officinale_01.jpg",
+    "artist": "Agnieszka Kwiecień (Nova)",
+    "license": "CC BY 2.5"
+  },
+  "wild-garlic": {
+    "src": "images/wild-garlic.jpg",
+    "file": "Photo_of_Allium_Ursinum,_wild_garlic,_north-west_Hampshire,_UK,_May_2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Photo_of_Allium_Ursinum,_wild_garlic,_north-west_Hampshire,_UK,_May_2014.jpg",
+    "artist": "Rodolph",
+    "license": "CC BY-SA 3.0"
+  },
+  "self-heal": {
+    "src": "images/self-heal.jpg",
+    "file": "Self-heal (Prunella vulgaris) - geograph.org.uk - 867353.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Self-heal_(Prunella_vulgaris)_-_geograph.org.uk_-_867353.jpg",
+    "artist": "Bob Embleton",
+    "license": "CC BY-SA 2.0"
+  },
+  "water-mint": {
+    "src": "images/water-mint.jpg",
+    "file": "Mentha_aquatica_02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mentha_aquatica_02.jpg",
+    "artist": "Burschik at English Wikipedia",
+    "license": "CC BY-SA 3.0"
+  },
+  "bogbean": {
+    "src": "images/bogbean.jpg",
+    "file": "Menyanthes_trifoliata_Bukkeblad.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Menyanthes_trifoliata_Bukkeblad.JPG",
+    "artist": "Arnstein Rønning",
+    "license": "CC BY 3.0"
+  },
+  "heather": {
+    "src": "images/heather.jpg",
+    "file": "Calluna vulgaris RF.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Calluna_vulgaris_RF.jpg",
+    "artist": "Robert Flogaus-Faust",
+    "license": "CC BY 4.0"
+  }
+}
