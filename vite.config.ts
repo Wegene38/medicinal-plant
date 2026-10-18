@@ -6,6 +6,8 @@ import { VitePWA } from 'vite-plugin-pwa'
 export default defineConfig({
   // Relative base so the build works from any sub-path (e.g. GitHub Pages).
   base: './',
+  // The bilingual text for ~120 plants lives in the main bundle (~210 kB gzipped).
+  build: { chunkSizeWarningLimit: 800 },
   plugins: [
     react(),
     VitePWA({
@@ -26,10 +28,15 @@ export default defineConfig({
         ],
       },
       workbox: {
-        // Precache the app shell and every plant photo so the guide works offline.
-        globPatterns: ['**/*.{js,css,html,svg,png,jpg}'],
-        maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
+        // Precache the app shell; plant photos (~120) are cached as they are viewed.
+        globPatterns: ['**/*.{js,css,html,svg,png}'],
+        globIgnores: ['images/**'],
         runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.pathname.includes('/images/'),
+            handler: 'CacheFirst',
+            options: { cacheName: 'plant-photos', expiration: { maxEntries: 200, maxAgeSeconds: 90 * 24 * 3600 } },
+          },
           {
             urlPattern: /^https:\/\/[abc]\.tile\.openstreetmap\.org\//,
             handler: 'CacheFirst',

@@ -208,5 +208,600 @@
     "page": "https://commons.wikimedia.org/wiki/File:Calluna_vulgaris_RF.jpg",
     "artist": "Robert Flogaus-Faust",
     "license": "CC BY 4.0"
+  },
+  "ding-xiang": {
+    "src": "images/ding-xiang.jpg",
+    "file": "Syzygium_aromaticum_-_Köhler–s_Medizinal-Pflanzen-030.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Syzygium_aromaticum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-030.jpg",
+    "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+    "license": "Public domain"
+  },
+  "ba-jiao": {
+    "src": "images/ba-jiao.jpg",
+    "file": "Illicium_verum_1zz.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Illicium_verum_1zz.jpg",
+    "artist": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0"
+  },
+  "dao-dou": {
+    "src": "images/dao-dou.jpg",
+    "file": "Canavalia_gladiata2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Canavalia_gladiata2.jpg",
+    "artist": "KENPEI",
+    "license": "CC BY-SA 3.0"
+  },
+  "xiao-hui-xiang": {
+    "src": "images/xiao-hui-xiang.jpg",
+    "file": "Foeniculum_July_2011-1a.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Foeniculum_July_2011-1a.jpg",
+    "artist": "Alvesgaspar",
+    "license": "CC BY-SA 3.0"
+  },
+  "xiao-ji": {
+    "src": "images/xiao-ji.jpg",
+    "file": "Cirsium_arvense_with_Bees_Richard_Bartz.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cirsium_arvense_with_Bees_Richard_Bartz.jpg",
+    "artist": "Richard Bartz, Munich aka Makro Freak",
+    "license": "CC BY-SA 2.5"
+  },
+  "shan-yao": {
+    "src": "images/shan-yao.jpg",
+    "file": "Dioscorea_polystachya_(batatas).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dioscorea_polystachya_(batatas).jpg",
+    "artist": "Unknown",
+    "license": "Public domain"
+  },
+  "ma-chi-xian": {
+    "src": "images/ma-chi-xian.jpg",
+    "file": "Common_Purslane,_United_States_imported_from_iNaturalist_photo_541953905.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Common_Purslane,_United_States_imported_from_iNaturalist_photo_541953905.jpg",
+    "artist": "(c) Tyler Ekholm, some rights reserved (CC BY)",
+    "license": "CC BY 4.0"
+  },
+  "wu-mei": {
+    "src": "images/wu-mei.jpg",
+    "file": "Prunus_mume.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Prunus_mume.JPG",
+    "artist": "Kakidai",
+    "license": "CC BY-SA 3.0"
+  },
+  "mu-gua": {
+    "src": "images/mu-gua.jpg",
+    "file": "WitteHeinrichFlora1868-035-Chaenomeles_speciosa.png",
+    "page": "https://commons.wikimedia.org/wiki/File:WitteHeinrichFlora1868-035-Chaenomeles_speciosa.png",
+    "artist": "Abraham Jacobus Wendel",
+    "license": "Public domain"
+  },
+  "huo-ma-ren": {
+    "src": "images/huo-ma-ren.jpg",
+    "file": "La_Roche_Jagu_chanvre_1.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Roche_Jagu_chanvre_1.JPG",
+    "artist": "Barbetorte",
+    "license": "CC BY-SA 3.0"
+  },
+  "dai-dai-hua": {
+    "src": "images/dai-dai-hua.jpg",
+    "file": "Citrus_aurantium.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Citrus_aurantium.jpg",
+    "artist": "A. Barra",
+    "license": "CC BY-SA 4.0"
+  },
+  "yu-zhu": {
+    "src": "images/yu-zhu.jpg",
+    "file": "Angular_solomons-seal_Polygonatum_odoratum.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Angular_solomons-seal_Polygonatum_odoratum.jpg",
+    "artist": "Myrabella",
+    "license": "CC BY-SA 3.0"
+  },
+  "bai-zhi": {
+    "src": "images/bai-zhi.jpg",
+    "file": "Angelica_dahurica_(8855221294).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Angelica_dahurica_(8855221294).jpg",
+    "artist": "Alicia-C",
+    "license": "CC BY 2.0"
+  },
+  "bai-guo": {
+    "src": "images/bai-guo.jpg",
+    "file": "GINKGOBAUM-2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:GINKGOBAUM-2.jpg",
+    "artist": "EecherplazGinkgo06.jpg: Cayambe derivative work: Ginkgotree (talk)",
+    "license": "CC BY-SA 3.0"
+  },
+  "bai-bian-dou": {
+    "src": "images/bai-bian-dou.jpg",
+    "file": "Leiden_University_Library_-_Seikei_Zusetsu_vol._18,_page_038_-_白花稨豆_-_Lablab_purpureus_(L.)_Sweet,_1804.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leiden_University_Library_-_Seikei_Zusetsu_vol._18,_page_038_-_%E7%99%BD%E8%8A%B1%E7%A8%A8%E8%B1%86_-_Lablab_purpureus_(L.)_Sweet,_1804.jpg",
+    "artist": "AnonymousUnknown author",
+    "license": "CC BY 4.0"
+  },
+  "long-yan": {
+    "src": "images/long-yan.jpg",
+    "file": "Longan_tree_at_Pine_Island_Nursery.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Longan_tree_at_Pine_Island_Nursery.jpg",
+    "artist": "Pouletic",
+    "license": "CC BY-SA 3.0"
+  },
+  "jue-ming-zi": {
+    "src": "images/jue-ming-zi.jpg",
+    "file": "Senna_obtusifolia_with_flower_and_pods.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Senna_obtusifolia_with_flower_and_pods.jpg",
+    "artist": "Jeevan Jose, Kerala, India",
+    "license": "CC BY-SA 4.0"
+  },
+  "bai-he": {
+    "src": "images/bai-he.jpg",
+    "file": "Lilium_lancifolium_7757.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lilium_lancifolium_7757.jpg",
+    "artist": "Amada44",
+    "license": "CC BY-SA 3.0"
+  },
+  "rou-dou-kou": {
+    "src": "images/rou-dou-kou.jpg",
+    "file": "Biji_Pala_Bubuk.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Biji_Pala_Bubuk.jpg",
+    "artist": "Herusutimbul",
+    "license": "CC BY-SA 4.0"
+  },
+  "rou-gui": {
+    "src": "images/rou-gui.jpg",
+    "file": "Cinnamomum_aromaticum_-_Köhler–s_Medizinal-Pflanzen-039_cropped.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cinnamomum_aromaticum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-039_cropped.jpg",
+    "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+    "license": "Public domain"
+  },
+  "yu-gan-zi": {
+    "src": "images/yu-gan-zi.jpg",
+    "file": "Phyllanthus_officinalis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Phyllanthus_officinalis.jpg",
+    "artist": "L. Shyamal",
+    "license": "CC BY 2.5"
+  },
+  "fo-shou": {
+    "src": "images/fo-shou.jpg",
+    "file": "Buddhas_hand_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Buddhas_hand_1.jpg",
+    "artist": "Kaldari",
+    "license": "Public domain"
+  },
+  "xing-ren": {
+    "src": "images/xing-ren.jpg",
+    "file": "Apricot_and_cross_section.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Apricot_and_cross_section.jpg",
+    "artist": "Fir0002",
+    "license": "GFDL 1.2"
+  },
+  "sha-ji": {
+    "src": "images/sha-ji.jpg",
+    "file": "Hippophae_rhamnoides-01_(xndr).JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Hippophae_rhamnoides-01_(xndr).JPG",
+    "artist": "No machine-readable author provided. Svdmolen assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0"
+  },
+  "qian-shi": {
+    "src": "images/qian-shi.jpg",
+    "file": "Junicho-Gata_lagoon_Euryale_feroxe_habitat_07.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Junicho-Gata_lagoon_Euryale_feroxe_habitat_07.jpg",
+    "artist": "さかおり",
+    "license": "CC BY-SA 4.0"
+  },
+  "hua-jiao": {
+    "src": "images/hua-jiao.jpg",
+    "file": "Zanthoxylum_bungeanum_in_Palm_House_Schoenbrunn_(2).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Zanthoxylum_bungeanum_in_Palm_House_Schoenbrunn_(2).jpg",
+    "artist": "Tournasol7",
+    "license": "CC BY 4.0"
+  },
+  "chi-xiao-dou": {
+    "src": "images/chi-xiao-dou.jpg",
+    "file": "赤小豆.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%E8%B5%A4%E5%B0%8F%E8%B1%86.jpg",
+    "artist": "Samuel Wong",
+    "license": "CC BY-SA 2.5"
+  },
+  "mai-ya": {
+    "src": "images/mai-ya.jpg",
+    "file": "Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Barley_(Hordeum_vulgare)_-_United_States_National_Arboretum_-_24_May_2009.jpg",
+    "artist": "Cliff from Arlington, Virginia, USA",
+    "license": "CC BY 2.0"
+  },
+  "kun-bu": {
+    "src": "images/kun-bu.jpg",
+    "file": "Dasima_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dasima_2.jpg",
+    "artist": "freddy an",
+    "license": "CC0"
+  },
+  "da-zao": {
+    "src": "images/da-zao.jpg",
+    "file": "Ziziphus_jujuba.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ziziphus_jujuba.jpg",
+    "artist": "Tokyo Watcher at English Wikipedia",
+    "license": "CC BY-SA 3.0"
+  },
+  "luo-han-guo": {
+    "src": "images/luo-han-guo.jpg",
+    "file": "Fructus_Momordicae.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fructus_Momordicae.jpg",
+    "artist": "User:KasugaHuang",
+    "license": "CC BY 2.5"
+  },
+  "yu-li-ren": {
+    "src": "images/yu-li-ren.jpg",
+    "file": "Chinese_dwarf_cherry_imported_from_iNaturalist_photo_367143956_on_25_June_2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chinese_dwarf_cherry_imported_from_iNaturalist_photo_367143956_on_25_June_2024.jpg",
+    "artist": "(c) Jane Charlen, some rights reserved (CC BY)",
+    "license": "CC BY 4.0"
+  },
+  "qing-guo": {
+    "src": "images/qing-guo.jpg",
+    "file": "橄榄树.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%E6%A9%84%E6%A6%84%E6%A0%91.jpg",
+    "artist": "MicrophoneBen",
+    "license": "CC BY-SA 4.0"
+  },
+  "yu-xing-cao": {
+    "src": "images/yu-xing-cao.jpg",
+    "file": "Houttuynia_cordata.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Houttuynia_cordata.jpg",
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0"
+  },
+  "sheng-jiang": {
+    "src": "images/sheng-jiang.jpg",
+    "file": "Koeh-146-no_text.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Koeh-146-no_text.jpg",
+    "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+    "license": "Public domain"
+  },
+  "zhi-ju-zi": {
+    "src": "images/zhi-ju-zi.jpg",
+    "file": "Hovenia_dulcis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hovenia_dulcis.jpg",
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0"
+  },
+  "zhi-zi": {
+    "src": "images/zhi-zi.jpg",
+    "file": "Gardenia_jasminoides_flower_Argentina.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gardenia_jasminoides_flower_Argentina.jpg",
+    "artist": "Adriel anv00",
+    "license": "CC BY-SA 4.0"
+  },
+  "sha-ren": {
+    "src": "images/sha-ren.jpg",
+    "file": "Amomum_villosum_-_Hong_Kong_Botanical_Garden_-_IMG_9580.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Amomum_villosum_-_Hong_Kong_Botanical_Garden_-_IMG_9580.JPG",
+    "artist": "Daderot",
+    "license": "Public domain"
+  },
+  "pang-da-hai": {
+    "src": "images/pang-da-hai.jpg",
+    "file": "Sterculia_lychnophora_seeds.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sterculia_lychnophora_seeds.jpg",
+    "artist": "Badagnani",
+    "license": "CC BY 3.0"
+  },
+  "fu-ling": {
+    "src": "images/fu-ling.jpg",
+    "file": "Tuckahoe.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tuckahoe.jpg",
+    "artist": "Trappem at English Wikipedia",
+    "license": "Public domain"
+  },
+  "xiang-yuan": {
+    "src": "images/xiang-yuan.jpg",
+    "file": "Chinesische_Zedrat_Zitrone.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chinesische_Zedrat_Zitrone.jpg",
+    "artist": "Johann Werfring",
+    "license": "CC BY-SA 3.0"
+  },
+  "tao-ren": {
+    "src": "images/tao-ren.jpg",
+    "file": "Illustration_Prunus_persica_clean_no_descr.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Illustration_Prunus_persica_clean_no_descr.jpg",
+    "artist": "File:Illustration Prunus persica0.jpg: PLEASE COMPLETE AUTHOR INFORMATION derivative work: Kenraiz",
+    "license": "Public domain"
+  },
+  "sang": {
+    "src": "images/sang.jpg",
+    "file": "Rosales_-_Morus_alba_-_3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosales_-_Morus_alba_-_3.jpg",
+    "artist": "Emőke Dénes",
+    "license": "CC BY-SA 4.0"
+  },
+  "chen-pi": {
+    "src": "images/chen-pi.jpg",
+    "file": "Citrus_reticulata_April_2013_Nordbaden.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Citrus_reticulata_April_2013_Nordbaden.JPG",
+    "artist": "4028mdk09",
+    "license": "CC BY-SA 3.0"
+  },
+  "jie-geng": {
+    "src": "images/jie-geng.jpg",
+    "file": "Platycodon_grandiflorum2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Platycodon_grandiflorum2.jpg",
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0"
+  },
+  "yi-zhi": {
+    "src": "images/yi-zhi.jpg",
+    "file": "Alpinia_oxyphylla01.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Alpinia_oxyphylla01.JPG",
+    "artist": "Meneerke bloem",
+    "license": "CC BY-SA 3.0"
+  },
+  "lian": {
+    "src": "images/lian.jpg",
+    "file": "Sacred_lotus_Nelumbo_nucifera.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sacred_lotus_Nelumbo_nucifera.jpg",
+    "artist": "T.Voekler",
+    "license": "CC BY-SA 3.0"
+  },
+  "lai-fu-zi": {
+    "src": "images/lai-fu-zi.jpg",
+    "file": "Radish_3371103037_4ab07db0bf_o.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Radish_3371103037_4ab07db0bf_o.jpg",
+    "artist": "Self, en:User:Jengod",
+    "license": "Public domain"
+  },
+  "gao-liang-jiang": {
+    "src": "images/gao-liang-jiang.jpg",
+    "file": "Alpinia_officinarum_-_Köhler–s_Medizinal-Pflanzen-156.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alpinia_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-156.jpg",
+    "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+    "license": "Public domain"
+  },
+  "dan-dou-chi": {
+    "src": "images/dan-dou-chi.jpg",
+    "file": "Soybean.USDA.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Soybean.USDA.jpg",
+    "artist": "Unknown",
+    "license": "Public domain"
+  },
+  "ju-ju": {
+    "src": "images/ju-ju.jpg",
+    "file": "Illustration_Cichorium_intybus0_clean.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Illustration_Cichorium_intybus0_clean.jpg",
+    "artist": "Original book source: Prof. Dr. Otto Wilhelm Thomé Flora von Deutschland, Österreich und der Schweiz 1885, Gera, Germany",
+    "license": "Public domain"
+  },
+  "huang-jie-zi": {
+    "src": "images/huang-jie-zi.jpg",
+    "file": "Brassica_juncea_-_Köhler–s_Medizinal-Pflanzen-168.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brassica_juncea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-168.jpg",
+    "artist": "Walther Otto Müller",
+    "license": "Public domain"
+  },
+  "zi-su": {
+    "src": "images/zi-su.jpg",
+    "file": "Perilla_frutescens_frutescens_732814283.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Perilla_frutescens_frutescens_732814283.jpg",
+    "artist": "Alex Abair",
+    "license": "CC BY 4.0"
+  },
+  "ge-gen": {
+    "src": "images/ge-gen.jpg",
+    "file": "Starr_021012-9100_Pueraria_montana_var._lobata.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Starr_021012-9100_Pueraria_montana_var._lobata.jpg",
+    "artist": "Forest &amp; Kim Starr",
+    "license": "CC BY 3.0"
+  },
+  "hei-zhi-ma": {
+    "src": "images/hei-zhi-ma.jpg",
+    "file": "Sesamum_indicum_-_Köhler–s_Medizinal-Pflanzen-129.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sesamum_indicum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-129.jpg",
+    "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+    "license": "Public domain"
+  },
+  "hu-jiao": {
+    "src": "images/hu-jiao.jpg",
+    "file": "Piper_nigrum_-_Köhler–s_Medizinal-Pflanzen-107.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg",
+    "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+    "license": "Public domain"
+  },
+  "huai-hua": {
+    "src": "images/huai-hua.jpg",
+    "file": "Sophora_japonica_JPG2Aa.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sophora_japonica_JPG2Aa.jpg",
+    "artist": "Jean-Pol GRANDMONT",
+    "license": "CC BY 3.0"
+  },
+  "fei-zi": {
+    "src": "images/fei-zi.jpg",
+    "file": "Torreya_grandis.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Torreya_grandis.jpg",
+    "artist": "Farm",
+    "license": "CC BY 3.0"
+  },
+  "bai-mao-gen": {
+    "src": "images/bai-mao-gen.jpg",
+    "file": "Imperata_cylindrica_tigaya_colony.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Imperata_cylindrica_tigaya_colony.jpg",
+    "artist": "No machine-readable author provided. Keisotyo assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0"
+  },
+  "lu-gen": {
+    "src": "images/lu-gen.jpg",
+    "file": "Reed_panicle_at_Brodalen_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Reed_panicle_at_Brodalen_1.jpg",
+    "artist": "W.carter",
+    "license": "CC0"
+  },
+  "yi-yi-ren": {
+    "src": "images/yi-yi-ren.jpg",
+    "file": "Coix_lacryma-jobi1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coix_lacryma-jobi1.jpg",
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0"
+  },
+  "xie-bai": {
+    "src": "images/xie-bai.jpg",
+    "file": "Allium_macrostemon_1.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Allium_macrostemon_1.JPG",
+    "artist": "Qwert1234",
+    "license": "CC BY-SA 4.0"
+  },
+  "huo-xiang": {
+    "src": "images/huo-xiang.jpg",
+    "file": "Agastache_rugosa.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Agastache_rugosa.jpg",
+    "artist": "Stanislav Doronenko",
+    "license": "CC BY 2.5"
+  },
+  "shan-nai": {
+    "src": "images/shan-nai.jpg",
+    "file": "Galangal.web.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Galangal.web.jpg",
+    "artist": "Unknown",
+    "license": "Public domain"
+  },
+  "xi-hong-hua": {
+    "src": "images/xi-hong-hua.jpg",
+    "file": "Saffron_-_premium_spice.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Saffron_-_premium_spice.jpg",
+    "artist": "Shaharbano",
+    "license": "CC BY 4.0"
+  },
+  "cao-guo": {
+    "src": "images/cao-guo.jpg",
+    "file": "Lanxangia_tsao-ko_imported_from_iNaturalist_photo_111001922_on_29_January_2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lanxangia_tsao-ko_imported_from_iNaturalist_photo_111001922_on_29_January_2024.jpg",
+    "artist": "(c) Jan Vršovský, some rights reserved (CC BY-SA)",
+    "license": "CC BY-SA 4.0"
+  },
+  "jiang-huang": {
+    "src": "images/jiang-huang.jpg",
+    "file": "Turmeric_inflorescence.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Turmeric_inflorescence.jpg",
+    "artist": "SKsiddhartthan",
+    "license": "CC BY-SA 4.0"
+  },
+  "bi-ba": {
+    "src": "images/bi-ba.jpg",
+    "file": "Piper_longum_print.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Piper_longum_print.jpg",
+    "artist": "Unknown",
+    "license": "Public domain"
+  },
+  "dang-shen": {
+    "src": "images/dang-shen.jpg",
+    "file": "Codonopsis_pilosula_flowers.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Codonopsis_pilosula_flowers.jpg",
+    "artist": "Doronenko",
+    "license": "CC BY 2.5"
+  },
+  "rou-cong-rong": {
+    "src": "images/rou-cong-rong.jpg",
+    "file": "Рідкісна_рослина-паразит_Цістанхе_(Cistanche_deserticola),_паразитує_на_коренях_саксаулів_(Halóxylon),_Гобі.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%A0%D1%96%D0%B4%D0%BA%D1%96%D1%81%D0%BD%D0%B0_%D1%80%D0%BE%D1%81%D0%BB%D0%B8%D0%BD%D0%B0-%D0%BF%D0%B0%D1%80%D0%B0%D0%B7%D0%B8%D1%82_%D0%A6%D1%96%D1%81%D1%82%D0%B0%D0%BD%D1%85%D0%B5_(Cistanche_deserticola),_%D0%BF%D0%B0%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D1%83%D1%94_%D0%BD%D0%B0_%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D1%8F%D1%85_%D1%81%D0%B0%D0%BA%D1%81%D0%B0%D1%83%D0%BB%D1%96%D0%B2_(Hal%C3%B3xylon),_%D0%93%D0%BE%D0%B1%D1%96.jpg",
+    "artist": "Yanish E",
+    "license": "CC BY 4.0"
+  },
+  "xi-yang-shen": {
+    "src": "images/xi-yang-shen.jpg",
+    "file": "Panax_quinquefolius00.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Panax_quinquefolius00.jpg",
+    "artist": "Jacob Bigelow (1786-1879), text and coloured engravings",
+    "license": "Public domain"
+  },
+  "ling-zhi": {
+    "src": "images/ling-zhi.jpg",
+    "file": "Ganoderma_lingzhi_Wu,_Cao_&_Dai_574883.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ganoderma_lingzhi_Wu,_Cao_%26_Dai_574883.jpg",
+    "artist": "This image was created by user TecheOldFox (Techieoldfox) at Mushroom Observer, a source for mycological images.You can contact this user here.",
+    "license": "CC BY-SA 3.0"
+  },
+  "shan-zhu-yu": {
+    "src": "images/shan-zhu-yu.jpg",
+    "file": "Cornus_officinalis_SZ50.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Cornus_officinalis_SZ50.png",
+    "artist": "Philipp Franz von Siebold and Joseph Gerhard Zuccarini",
+    "license": "Public domain"
+  },
+  "tian-ma": {
+    "src": "images/tian-ma.jpg",
+    "file": "Gastrodia_elata_1.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Gastrodia_elata_1.JPG",
+    "artist": "Qwert1234",
+    "license": "Public domain"
+  },
+  "di-huang": {
+    "src": "images/di-huang.jpg",
+    "file": "Rehmannia.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Rehmannia.JPG",
+    "artist": "Shizhao",
+    "license": "CC BY 2.5"
+  },
+  "mai-dong": {
+    "src": "images/mai-dong.jpg",
+    "file": "Japonska_kačja_brada.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Japonska_ka%C4%8Dja_brada.jpg",
+    "artist": "Shabicht",
+    "license": "CC0"
+  },
+  "tian-dong": {
+    "src": "images/tian-dong.jpg",
+    "file": "天門冬.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%E5%A4%A9%E9%96%80%E5%86%AC.jpg",
+    "artist": "Shih-Shiuan Kao",
+    "license": "CC BY-SA 2.0"
+  },
+  "hua-ju-hong": {
+    "src": "images/hua-ju-hong.jpg",
+    "file": "Pomelo_fruit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pomelo_fruit.jpg",
+    "artist": "Ivar Leidus",
+    "license": "CC BY-SA 4.0"
+  },
+  "mei-gui": {
+    "src": "images/mei-gui.jpg",
+    "file": "Rosa_rugosa_Tokyo.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosa_rugosa_Tokyo.JPG",
+    "artist": "Qwert1234",
+    "license": "CC BY-SA 3.0"
+  },
+  "mo-li": {
+    "src": "images/mo-li.jpg",
+    "file": "Arabian_jasmin,_Tunisia_2010.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Arabian_jasmin,_Tunisia_2010.jpg",
+    "artist": "Habib M'henni",
+    "license": "CC BY-SA 3.0"
+  },
+  "gui-hua": {
+    "src": "images/gui-hua.jpg",
+    "file": "Osmanthus_fragrans_(orange_flowers).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Osmanthus_fragrans_(orange_flowers).jpg",
+    "artist": "Laitr Keiows",
+    "license": "CC BY-SA 3.0"
+  },
+  "dan-zhu-ye": {
+    "src": "images/dan-zhu-ye.jpg",
+    "file": "Lophatherum gracile sasakusa01.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Lophatherum_gracile_sasakusa01.JPG",
+    "artist": "keisotyo",
+    "license": "CC BY-SA 3.0"
+  },
+  "huang-jing": {
+    "src": "images/huang-jing.jpg",
+    "file": "Polygonatum sibiricum (20241118).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Polygonatum_sibiricum_(20241118).jpg",
+    "artist": "Fumikas Sagisavas",
+    "license": "CC0"
+  },
+  "tie-pi-shi-hu": {
+    "src": "images/tie-pi-shi-hu.jpg",
+    "file": "Dendrobium officinale (colored stem type) Kimura & Migo, J. Shanghai Sci. Inst. 3 122 (1936), nom. cons (46810867685).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dendrobium_officinale_(colored_stem_type)_Kimura_%26_Migo,_J._Shanghai_Sci._Inst._3_122_(1936),_nom._cons_(46810867685).jpg",
+    "artist": "sunoochi from Sapporo, Hokkaido, Japan",
+    "license": "CC BY 2.0"
+  },
+  "suan-zao-ren": {
+    "src": "images/suan-zao-ren.jpg",
+    "file": "Jujube spinosa dried.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jujube_spinosa_dried.jpg",
+    "artist": "Shwabb1",
+    "license": "CC BY-SA 4.0"
   }
 }

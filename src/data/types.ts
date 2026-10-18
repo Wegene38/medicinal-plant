@@ -71,6 +71,8 @@ export interface Plant {
   /** Months (1–12) when the medicinal part is harvested. */
   harvest: number[]
   locations: Location[]
+  /** Listed in China's official food–medicine homology catalogue (药食同源目录), by batch year. */
+  foodMedicine?: { year: 2002 | 2019 | 2023 | 2024; note?: L10n }
 }
 
 export interface Comparison {

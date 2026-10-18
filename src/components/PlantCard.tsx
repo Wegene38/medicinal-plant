@@ -6,7 +6,7 @@ import { PlantImage } from './PlantImage'
 import { ToxicityBadge } from './ToxicityBadge'
 
 export function PlantCard({ plant }: { plant: Plant }) {
-  const { l, lang } = useLang()
+  const { l, lang, t } = useLang()
   const secondary = lang === 'zh' ? plant.name.en : plant.name.zh
   return (
     <Link to={`/plant/${plant.id}`} className={`card card--${plant.region}`}>
@@ -16,6 +16,7 @@ export function PlantCard({ plant }: { plant: Plant }) {
           {regionFlag[plant.region]}
         </span>
         {plant.toxicity !== 'safe' && <ToxicityBadge level={plant.toxicity} compact />}
+        {plant.foodMedicine && <span className="fm-badge">{t('foodMedicine')}</span>}
       </div>
       <div className="card__body">
         <h3 className="card__title">{l(plant.name)}</h3>

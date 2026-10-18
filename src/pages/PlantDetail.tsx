@@ -69,6 +69,15 @@ export function PlantDetail() {
                 <dd>{plant.drugName}</dd>
               </div>
             )}
+            {plant.foodMedicine && (
+              <div className="facts__fm">
+                <dt>{t('foodMedicineFact')}</dt>
+                <dd>
+                  ✓ {plant.foodMedicine.year} {t('foodMedicineYear')}
+                  {plant.foodMedicine.note && ` · ${l(plant.foodMedicine.note)}`}
+                </dd>
+              </div>
+            )}
             {plant.irish && (
               <div>
                 <dt>{t('irishName')}</dt>

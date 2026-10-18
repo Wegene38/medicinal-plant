@@ -1,14 +1,19 @@
+import { plants } from '../data'
 import { useLang } from '../i18n'
 
 export function About() {
   const { t, lang } = useLang()
+  const china = plants.filter((p) => p.region === 'china').length
+  const ireland = plants.length - china
   return (
     <article className="prose">
       <h1>{t('aboutTitle')}</h1>
       {lang === 'zh' ? (
         <>
           <p>
-            《药用植物图鉴》介绍中国与爱尔兰各 15 种代表性药用植物，包括它们的生长环境、生长过程、药用价值、使用方法和注意事项，并对两地同属植物进行对比。
+            《药用植物图鉴》介绍 {china} 种中国植物和 {ireland} 种爱尔兰药用植物，包括它们的生长环境、生长过程、药用价值、使用方法和注意事项，并对两地同属植物进行对比。中国部分收录了国家卫生健康委员会药食同源目录（2002、2019、2023、2024 年批次）中的全部植物和菌类，不含动物类与矿物类。</p>
+          <p>
+            app 里的「花草茶铺」销售的是食品（花草茶），与图鉴中的传统药用知识相互独立：商品页面只介绍风味、原料产地和冲泡方法，不作任何功效宣称。
           </p>
           <h2>⚠️ 免责声明</h2>
           <p>
@@ -27,9 +32,13 @@ export function About() {
       ) : (
         <>
           <p>
-            Medicinal Plant introduces 15 representative healing plants each from China and Ireland: where they grow, how they
-            grow, their medicinal value, how they are used and what to watch out for. It also compares related plants across the
-            two traditions.
+            Medicinal Plant introduces {china} plants from China and {ireland} from Ireland: where they grow, how they grow, their
+            medicinal value, how they are used and what to watch out for. The China section includes every plant and fungus on
+            the National Health Commission’s food–medicine catalogue (2002, 2019, 2023 and 2024 batches), excluding animal and
+            mineral items. It also compares related plants across the two traditions.</p>
+          <p>
+            The Herbal Tea Shop in the app sells foods (herbal infusions) and is kept separate from the guide’s traditional
+            medicinal content: product pages describe flavour, origin and brewing only and make no health claims.
           </p>
           <h2>⚠️ Disclaimer</h2>
           <p>

@@ -1,10 +1,47 @@
 import { chinaA } from './china-a'
 import { chinaB } from './china-b'
+import { fm1 } from './fm-1'
+import { fm2 } from './fm-2'
+import { fm3 } from './fm-3'
+import { fm4 } from './fm-4'
+import { fm5 } from './fm-5'
+import { fm6 } from './fm-6'
+import { fm7 } from './fm-7'
+import { fm8 } from './fm-8'
+import { fm, t } from './helpers'
 import { irelandA } from './ireland-a'
 import { irelandB } from './ireland-b'
 import type { Category, Comparison, Plant } from './types'
 
-export const plants: Plant[] = [...chinaA, ...chinaB, ...irelandA, ...irelandB]
+// Original China entries that are also on the 药食同源 catalogue.
+const listed: Record<string, Plant['foodMedicine']> = {
+  goji: fm(2002),
+  honeysuckle: fm(2002),
+  licorice: fm(2002),
+  chrysanthemum: fm(2002),
+  'shan-zha': fm(2002),
+  'pu-gong-ying': fm(2002),
+  'bo-he': fm(2002),
+  'dang-gui': fm(2019),
+  astragalus: fm(2023),
+  'du-zhong': fm(2023, t('仅杜仲叶列入', 'Leaf only')),
+}
+
+const china = [...chinaA, ...chinaB].map((p) => (listed[p.id] ? { ...p, foodMedicine: listed[p.id] } : p))
+
+export const plants: Plant[] = [
+  ...china,
+  ...fm1,
+  ...fm2,
+  ...fm3,
+  ...fm4,
+  ...fm5,
+  ...fm6,
+  ...fm7,
+  ...fm8,
+  ...irelandA,
+  ...irelandB,
+]
 
 const byId = new Map(plants.map((p) => [p.id, p]))
 export const getPlant = (id: string) => byId.get(id)

@@ -8,6 +8,7 @@ import { Home } from './pages/Home'
 import { MapPage } from './pages/MapPage'
 import { PlantDetail } from './pages/PlantDetail'
 import { Quiz } from './pages/Quiz'
+import { Delivery, ProductPage, Shop, TeaFinder } from './shop/pages'
 
 export default function App() {
   return (
@@ -18,6 +19,10 @@ export default function App() {
           <Route element={<Layout />}>
             <Route index element={<Home />} />
             <Route path="plant/:id" element={<PlantDetail />} />
+            <Route path="shop" element={<Shop />} />
+            <Route path="shop/finder" element={<TeaFinder />} />
+            <Route path="shop/delivery" element={<Delivery />} />
+            <Route path="shop/:id" element={<ProductPage />} />
             <Route path="compare" element={<Compare />} />
             <Route path="map" element={<MapPage />} />
             <Route path="quiz" element={<Quiz />} />

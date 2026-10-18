@@ -3,12 +3,24 @@ import { Link, NavLink, Outlet, useLocation } from 'react-router-dom'
 import { useLang } from '../i18n'
 import type { UiKey } from '../i18n/strings'
 
-const nav: { to: string; key: UiKey; icon: string }[] = [
+type NavItem = { to: string; key: UiKey; icon: string }
+
+const tabs: NavItem[] = [
   { to: '/', key: 'navHome', icon: '🌿' },
+  { to: '/shop', key: 'navShop', icon: '🍵' },
+  { to: '/compare', key: 'navCompare', icon: '⚖️' },
+  { to: '/quiz', key: 'navQuiz', icon: '❓' },
+  { to: '/favorites', key: 'navFavorites', icon: '♡' },
+]
+
+const topLinks: NavItem[] = [
+  { to: '/', key: 'navHome', icon: '🌿' },
+  { to: '/shop', key: 'navShop', icon: '🍵' },
   { to: '/compare', key: 'navCompare', icon: '⚖️' },
   { to: '/map', key: 'navMap', icon: '🗺️' },
   { to: '/quiz', key: 'navQuiz', icon: '❓' },
   { to: '/favorites', key: 'navFavorites', icon: '♡' },
+  { to: '/about', key: 'navAbout', icon: 'ℹ️' },
 ]
 
 export function Layout() {
@@ -27,12 +39,11 @@ export function Layout() {
           <span>{t('appName')}</span>
         </Link>
         <nav className="topnav" aria-label="Main">
-          {nav.map((n) => (
+          {topLinks.map((n) => (
             <NavLink key={n.to} to={n.to} end={n.to === '/'}>
               {t(n.key)}
             </NavLink>
           ))}
-          <NavLink to="/about">{t('navAbout')}</NavLink>
         </nav>
         <button className="lang-toggle" onClick={() => setLang(lang === 'zh' ? 'en' : 'zh')}>
           {t('language')}
@@ -46,12 +57,13 @@ export function Layout() {
       <footer className="footer">
         <p>{t('disclaimerShort')}</p>
         <p>
-          <Link to="/about">{t('navAbout')}</Link>
+          <Link to="/about">{t('navAbout')}</Link> · <Link to="/map">{t('navMap')}</Link> ·{' '}
+          <Link to="/shop/delivery">{t('shippingTitle')}</Link>
         </p>
       </footer>
 
       <nav className="tabbar" aria-label="Main">
-        {nav.map((n) => (
+        {tabs.map((n) => (
           <NavLink key={n.to} to={n.to} end={n.to === '/'}>
             <span aria-hidden>{n.icon}</span>
             <small>{t(n.key)}</small>

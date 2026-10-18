@@ -1,7 +1,7 @@
 // Downloads one representative photo per plant from Wikipedia/Wikimedia Commons
 // into public/images/, and records author + licence in src/data/images.json.
 // Usage: node scripts/fetch-images.mjs [--force]
-import { readFile, writeFile, mkdir, access } from 'node:fs/promises'
+import { readFile, writeFile, mkdir, access, readdir } from 'node:fs/promises'
 import { fileURLToPath } from 'node:url'
 import path from 'node:path'
 
@@ -13,7 +13,7 @@ const UA = 'MedicinalPlantApp/0.1 (educational project)'
 
 // Pull id + wiki title pairs straight out of the data sources.
 async function readPlants() {
-  const files = ['china-a.ts', 'china-b.ts', 'ireland-a.ts', 'ireland-b.ts']
+  const files = (await readdir(path.join(root, 'src/data'))).filter((f) => /^(china|ireland|fm)-.*\.ts$/.test(f))
   const out = []
   for (const f of files) {
     const src = await readFile(path.join(root, 'src/data', f), 'utf8')
@@ -46,7 +46,14 @@ const stripHtml = (s = '') => s.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').tri
 const COMMONS_SEARCH = {
   heather: 'Calluna vulgaris flowers',
   'self-heal': 'Prunella vulgaris flower close',
+  'suan-zao-ren': 'Ziziphus jujuba var. spinosa',
+  'dan-zhu-ye': 'Lophatherum gracile',
+  'huang-jing': 'Polygonatum sibiricum',
+  'tie-pi-shi-hu': 'Dendrobium officinale',
 }
+
+// No correctly identified free photo found yet; these show a placeholder.
+const SKIP = new Set(['xiang-ru', 'fu-pen-zi'])
 
 async function pickFile(id, title) {
   if (COMMONS_SEARCH[id]) {
@@ -93,7 +100,7 @@ await mkdir(imgDir, { recursive: true })
 const meta = (await exists(metaFile)) ? JSON.parse(await readFile(metaFile, 'utf8')) : {}
 for (const { id, wiki } of await readPlants()) {
   const dest = path.join(imgDir, `${id}.jpg`)
-  if (!force && meta[id] && (await exists(dest))) continue
+  if (SKIP.has(id) || (!force && meta[id] && (await exists(dest)))) continue
   try {
     const info = await lookup(id, wiki)
     const res = await get(info.url)

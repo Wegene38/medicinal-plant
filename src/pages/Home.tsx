@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { useSearchParams } from 'react-router-dom'
+import { Link, useSearchParams } from 'react-router-dom'
 import { PlantCard } from '../components/PlantCard'
 import { categories, plants } from '../data'
 import type { Category, Region } from '../data/types'
@@ -15,6 +15,7 @@ export function Home() {
   const region = (params.get('region') as Region | null) ?? 'all'
   const category = params.get('cat') as Category | null
   const query = params.get('q') ?? ''
+  const onlyListed = params.get('fm') === '1'
 
   const update = (key: string, value: string | null) => {
     const next = new URLSearchParams(params)
@@ -29,10 +30,11 @@ export function Home() {
       (p) =>
         (region === 'all' || p.region === region) &&
         (!category || p.categories.includes(category)) &&
+        (!onlyListed || p.foodMedicine) &&
         (!q ||
           [p.name.zh, p.name.en, p.latin, p.drugName ?? '', p.irish ?? ''].some((s) => s.toLowerCase().includes(q))),
     )
-  }, [region, category, query])
+  }, [region, category, query, onlyListed])
 
   return (
     <>
@@ -41,6 +43,17 @@ export function Home() {
         <h1>{t('tagline')}</h1>
         <p className="hero__text">{t('heroText')}</p>
       </section>
+
+      <Link to="/shop" className="shop-banner">
+        <span className="shop-banner__icon" aria-hidden>
+          🍵
+        </span>
+        <span>
+          <strong>{t('shopBanner')}</strong>
+          <small>{t('shopBannerText')}</small>
+        </span>
+        <span className="shop-banner__cta">{t('shopCta')} →</span>
+      </Link>
 
       <section className="filters">
         <div className="segmented" role="tablist">
@@ -64,6 +77,13 @@ export function Home() {
           onChange={(e) => update('q', e.target.value)}
         />
         <div className="chips chips--scroll">
+          <button
+            className={`chip chip--fm ${onlyListed ? 'is-active' : ''}`}
+            onClick={() => update('fm', onlyListed ? null : '1')}
+            aria-pressed={onlyListed}
+          >
+            ✓ {t('foodMedicine')}
+          </button>
           <button className={`chip ${!category ? 'is-active' : ''}`} onClick={() => update('cat', null)}>
             {t('allCategories')}
           </button>
