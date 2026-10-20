@@ -60,6 +60,7 @@ export function Layout() {
           <Link to="/about">{t('navAbout')}</Link> · <Link to="/map">{t('navMap')}</Link> ·{' '}
           <Link to="/shop/delivery">{t('shippingTitle')}</Link>
         </p>
+        <p>{t('copyright')}</p>
       </footer>
 
       <nav className="tabbar" aria-label="Main">

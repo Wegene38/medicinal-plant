@@ -37,3 +37,9 @@ Product copy lives in `src/shop/products.ts`. It must describe flavour, origin a
 - Photos come from Wikimedia Commons. `node scripts/fetch-images.mjs` downloads any missing ones into `public/images/` and records the author and licence in `src/data/images.json`.
 
 > For education only, not medical advice.
+
+## Copyright
+
+© 2026 Wegene38. All rights reserved. 版权所有，保留所有权利。
+
+This repository is public for reference only; no licence is granted to copy or reuse it. See [LICENSE](LICENSE). Plant photos (Wikimedia Commons), map data (OpenStreetMap) and open-source dependencies remain under their own licences.

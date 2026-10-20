@@ -1,0 +1,33 @@
+Copyright (c) 2026 Wegene38. All rights reserved.
+
+This repository is publicly visible for reference only. No licence is granted.
+
+Without the prior written permission of the copyright holder, you may not copy,
+modify, merge, publish, distribute, sublicense, sell or otherwise use any part
+of this repository, including its source code, plant texts and data, product
+descriptions, business content, design and the "Medicinal Plant" name and logo.
+
+Viewing the code on GitHub, and forking it only as GitHub's Terms of Service
+require, does not grant any right to use it.
+
+Third-party material is excluded and remains under its own licence:
+- Plant photographs in public/images/ come from Wikimedia Commons. The author
+  and licence of each photo are listed in src/data/images.json and shown in
+  the app.
+- Map data © OpenStreetMap contributors.
+- Open-source dependencies listed in package.json are under their own licences.
+
+For permission requests, contact the copyright holder via
+https://github.com/Wegene38.
+
+---
+
+版权所有 (c) 2026 Wegene38，保留所有权利。
+
+本仓库公开仅供查阅，不授予任何许可。未经版权所有者事先书面许可，
+不得复制、修改、发布、分发、再许可、出售或以其他方式使用本仓库的任何部分，
+包括源代码、植物文字与数据、商品描述、商业内容、设计以及
+「Medicinal Plant / 药用植物图鉴」名称和图标。
+
+第三方素材（Wikimedia Commons 图片、OpenStreetMap 地图数据、开源依赖）
+不在此列，适用其各自的许可协议。

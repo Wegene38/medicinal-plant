@@ -76,6 +76,10 @@ export const ui = {
   photoCredit: { zh: '图片来源', en: 'Photo' },
   month: { zh: '月', en: '' },
   navShop: { zh: '茶铺', en: 'Tea shop' },
+  copyright: {
+    zh: '© 2026 Medicinal Plant，保留所有权利。图片版权归各自作者所有。',
+    en: '© 2026 Medicinal Plant. All rights reserved. Photos © their respective authors.',
+  },
   foodMedicine: { zh: '药食同源', en: 'Food-medicine list' },
   foodMedicineFact: { zh: '国家药食同源目录', en: 'China’s food–medicine catalogue' },
   foodMedicineYear: { zh: '年列入', en: '' },
